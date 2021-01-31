@@ -1,1 +1,8 @@
+ru\geekbrains\FirstHTTPServlet.class
+ru\geekbrains\persist\User.class
+ru\geekbrains\EncodingFilter.class
+ru\geekbrains\UserServlet.class
+ru\geekbrains\UsersList.class
+ru\geekbrains\persist\UserRepository.class
+ru\geekbrains\BootStrapListaner.class
 ru\geekbrains\FirstServlet.class
