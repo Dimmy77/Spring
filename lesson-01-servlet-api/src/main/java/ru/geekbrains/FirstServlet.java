@@ -9,6 +9,7 @@ public class FirstServlet implements Servlet {
 
     private ServletConfig config;
 
+
     @Override
     public void init(ServletConfig config) throws ServletException {
         this.config=config;
@@ -21,7 +22,8 @@ public class FirstServlet implements Servlet {
 
     @Override
     public void service(ServletRequest req, ServletResponse res) throws ServletException, IOException {
-        res.getWriter().println("<h1>Hello from servlet!!!</h1>");
+        res.getWriter().println("<h1>Привет всем от сервлета</h1>");
+        res.getWriter().println("<h1>Hello from servlet</h1>");
     }
 
     @Override
