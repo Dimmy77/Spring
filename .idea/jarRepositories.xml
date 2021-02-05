@@ -17,9 +17,14 @@
       <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
     </remote-repository>
     <remote-repository>
-      <option name="id" value="8937af4d-4de9-4321-a526-900ce8062ffc" />
-      <option name="name" value="8937af4d-4de9-4321-a526-900ce8062ffc" />
-      <option name="url" value="https://mvnrepository.com/artifact/org.apache.maven/" />
+      <option name="id" value="maven.apache.org/" />
+      <option name="name" value="maven.apache.org/" />
+      <option name="url" value="https://mvnrepository.com/artifact/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="mvnrepository.com" />
+      <option name="name" value="mvnrepository.com" />
+      <option name="url" value="https://mvnrepository.com/artifact/" />
     </remote-repository>
   </component>
 </project>
